@@ -1,0 +1,25 @@
+body{
+    background: #000;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+.box-main{
+background:#aaa;
+color :#eee;
+text-align: center;
+padding: 2rem;
+
+}
+form{
+display: flex;
+flex-direction: column;
+gap: 1rem;
+}
+
+form input{
+    padding: 1rem;
+}
